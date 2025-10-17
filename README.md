@@ -11,8 +11,8 @@ Commonly adopted drive cycles include the Urban Dynamometer Driving Schedule (UD
 clc; clear; close all;
 
 % load drive cycle
-US06 = load("Drive Schedules/US06.mat");
-UDDS = load("Drive Schedules/UDDS.mat");
+US06 = load("Drive cycles/US06.mat");
+UDDS = load("Drive cycles/UDDS.mat");
 
 plotDriveCycle(US06.time_s,US06.speed_kmph,'US06');
 ```
