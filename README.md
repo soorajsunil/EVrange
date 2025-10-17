@@ -148,7 +148,8 @@ Now, the energy consumption per kilometer required to estimate the drive cycle r
 
 where $D$ denotes the total distance for the testing drive profile  calculated as
 
-&nbsp;&nbsp;&nbsp;&nbsp; $$ D=\int_{t_0 }^{t_f } v(t)dt $$ 
+$$ D=\int_{t_0 }^{t_f } v(t)dt $$ 
+
 # Drive Cycle Range
 
 The drive cycle range  of an electric battery pack, expressed in kilometers, can be approximately written as
