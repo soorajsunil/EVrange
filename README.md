@@ -1,6 +1,5 @@
 
-#  **Estimating EV Range from Drive Cycle:** A Case Study on an Electric Vehicle Battery Pack
-# **Drive Cycle**
+#  **Estimating EV Range from Drive Cycle** 
 
 In real\-world conditions, the range of EVs depend on the driving pattern, which is influenced by both external and internal factors such as environment and driving behavior. A drive (or driving) cycle is a set of data points representing the vehicle speed versus time.
 
